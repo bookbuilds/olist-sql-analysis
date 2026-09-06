@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "python_syntax_compilation",
+      "passed": true,
+      "detail": 11
+    },
+    {
+      "check": "sql_query_markers",
+      "passed": true,
+      "detail": 12
+    },
+    {
+      "check": "markdown_and_notebook_relative_links",
+      "passed": true,
+      "detail": 66
+    },
+    {
+      "check": "notebook_JSON_source_compilation_and_error_outputs",
+      "passed": true,
+      "detail": "7 historical code cells; no errors; not re-executed"
+    },
+    {
+      "check": "raw_private_generated_files_and_size",
+      "passed": true,
+      "detail": "No prohibited package files/symlinks; every packaged file below 50 MiB; .git metadata excluded from content checks"
+    },
+    {
+      "check": "secrets_signed_URLs_and_absolute_local_paths",
+      "passed": true,
+      "detail": "No matches in all text, notebook outputs, JSON, Markdown or logs; allowed /path/to placeholder"
+    },
+    {
+      "check": "gitignore_required_patterns",
+      "passed": true,
+      "detail": 18
+    },
+    {
+      "check": "readme_commands_match_actual_CLI",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "headline_metrics_consistent",
+      "passed": true,
+      "detail": "README, report, executive summary, portfolio card"
+    },
+    {
+      "check": "claims_ledger_evidence_paths",
+      "passed": true,
+      "detail": 13
+    },
+    {
+      "check": "verified_snapshot_and_QA_certificate",
+      "passed": true,
+      "detail": "PASS"
+    }
+  ],
+  "files_checked": 93,
+  "largest_file_bytes": 230598
+}

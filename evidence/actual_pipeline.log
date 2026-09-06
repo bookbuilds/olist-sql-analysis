@@ -1,0 +1,205 @@
+{
+  "rows": {
+    "customers": 99441,
+    "geolocation": 1000163,
+    "order_items": 112650,
+    "payments": 103886,
+    "reviews": 99224,
+    "orders": 99441,
+    "products": 32951,
+    "sellers": 3095,
+    "category_translation": 71
+  },
+  "audit_directory": "<temporary-run-directory>/audit"
+}
+{
+  "QA": "PASS",
+  "n_checks": 20,
+  "metrics": {
+    "eligible_orders": 89860,
+    "orders_with_items": 89860,
+    "orders_without_items": 0,
+    "n_items": 102738,
+    "item_sales_brl": 12342450.49,
+    "n_category_buckets": 74,
+    "n_reviewed_eligible_orders": 89238,
+    "review_coverage_pct": 99.3078121522368,
+    "n_buyers_with_valid_id": 86960,
+    "eligible_orders_missing_buyer_id": 0,
+    "multi_category_orders": 708,
+    "unknown_seller_items": 0,
+    "delivery": {
+      "eligible_orders": 89860,
+      "missing_invalid_dates": 8,
+      "delivered_before_purchase": 0,
+      "same_date_orders": 1024
+    },
+    "window": {
+      "start_date": "2017-01-01",
+      "end_date": "2018-08-01",
+      "min_items": 1,
+      "min_reviews": 1
+    },
+    "n_month_bins": 19
+  }
+}
+{
+  "status": "PASS",
+  "comparisons": [
+    {
+      "file": "Q01.csv",
+      "rows": 8,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q02.csv",
+      "rows": 8,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q03.csv",
+      "rows": 15,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q04.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q05.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q06.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q07.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q08.csv",
+      "rows": 95,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q09.csv",
+      "rows": 19,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q10.csv",
+      "rows": 3,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q11.csv",
+      "rows": 5,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q12.csv",
+      "rows": 2793,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "category_review_sensitivity.csv",
+      "rows": 222,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "category_totals_cents.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "delivery_numerators.csv",
+      "rows": 5,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "join_inflation_diagnostic.csv",
+      "rows": 1,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "monthly_maturity.csv",
+      "rows": 25,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "review_policy_sensitivity.csv",
+      "rows": 15,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "unknown_categories.csv",
+      "rows": 3,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "window_sensitivity.csv",
+      "rows": 3,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    }
+  ],
+  "tolerance": "Counts/ranks/cents/text/order exact; *_brl <= 0.01 BRL; percentage/average columns <= 1e-9; metrics/window exact."
+}
+Matplotlib is building the font cache; this may take a moment.
+{
+  "charts": [
+    "01_category_pareto.png",
+    "02_volume_price.png",
+    "03_delivery_reviews.png",
+    "04_monthly_top5.png",
+    "05_freight_ratio.png",
+    "06_seller_concentration.png"
+  ],
+  "matplotlib": "3.10.8"
+}
+PASS: Markdown report, summary, portfolio card and claims ledger match the verified snapshot.
+PASS: input hashes, audit, import, Q01-Q12, 20 QA checks, snapshot comparison, figures and report.

@@ -1,0 +1,55 @@
+{
+  "title": "Brazilian E-Commerce Public Dataset by Olist",
+  "ownerName": "Olist",
+  "ownerRef": "olistbr",
+  "currentVersionNumber": 2,
+  "lastUpdated": "2021-10-01T19:08:27.97Z",
+  "licenseName": "CC BY-NC-SA 4.0",
+  "source": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+  "metadata_endpoint": "https://www.kaggle.com/api/v1/datasets/view/olistbr/brazilian-ecommerce",
+  "recorded_date": "2026-09-06",
+  "original_metadata_sha256": "987b892b203e1226e6aa5fe4cd2a0ea202392c804d5a2e627edff2ed9c4b66b3",
+  "selection_notice": "Selected dataset identity and historical version fields; not the full original API response.",
+  "versions": [
+    {
+      "versionNumber": 2,
+      "creationDate": "2021-10-01T19:08:27.97Z",
+      "versionNotes": "Data Update 2021/10/01"
+    },
+    {
+      "versionNumber": 7,
+      "creationDate": "2018-11-29T12:22:57.62Z",
+      "versionNotes": "add new feature to order_items_dataset"
+    },
+    {
+      "versionNumber": 6,
+      "creationDate": "2018-10-31T16:15:27.527Z",
+      "versionNotes": "Major changes in the dataset structure to allow aggregation of more data. Add data schema representation. Clear datasets names. Add delivered_carrier_date information. More detail on zip codes to increase geolocation precision. Removed the classified dataset, it will be released later as a new dataset."
+    },
+    {
+      "versionNumber": 5,
+      "creationDate": "2018-10-25T19:46:13.67Z",
+      "versionNotes": "add sellers with origins for all orders; create product_measures with info about product dimensions; remove duplicate records from payments"
+    },
+    {
+      "versionNumber": 4,
+      "creationDate": "2018-10-09T01:52:17.347Z",
+      "versionNotes": "translation for product_category_name and improved geolocation_dataset (more records)"
+    },
+    {
+      "versionNumber": 3,
+      "creationDate": "2018-10-03T18:55:37.45Z",
+      "versionNotes": "Adding customer_id, product_id, order_id. New datasets with payment and geolocation data."
+    },
+    {
+      "versionNumber": 2,
+      "creationDate": "2018-09-21T15:53:39.287Z",
+      "versionNotes": "Unversioned Update"
+    },
+    {
+      "versionNumber": 1,
+      "creationDate": "2018-09-21T15:23:38.59Z",
+      "versionNotes": "Initial release"
+    }
+  ]
+}

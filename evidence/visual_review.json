@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "method": "Opened README/report in local browser Markdown preview; inspected all six actual PNGs. Local preview stopped after inspection.",
+  "native_GitHub_rendering": "UNTESTED",
+  "files": {
+    "README.md": "ea05e2571c459d15f727d10e3876bfd2a5c36045d4be1268cd7e8d2e2cb82b7a",
+    "docs/REPORT.md": "b6d9fae09404434f0c280ad400f681b488847474d414b4a804fc898c9a710aa3",
+    "figures/01_category_pareto.png": "095b2d1a360386181b49a0f8a11fc45b3705f70b71ab04728a74594fb8d55cfb",
+    "figures/02_volume_price.png": "2df85da4b6f3b5e17ef9fc9d3c69c8fea5061ee598d25bc9932f3b11e3e80f10",
+    "figures/03_delivery_reviews.png": "482b7e5e659db5908c72e05c8c1985f8c62b69afdbdc1aefa8ab035abad4666a",
+    "figures/04_monthly_top5.png": "73759cd56680ed422bd3bde7de78c61330805b46375e1990ae00732dd8b4de57",
+    "figures/05_freight_ratio.png": "efbfb15aef97402b8325315d8a3b630fea993b06498630e140ebe2e5e8d739e8",
+    "figures/06_seller_concentration.png": "49005d0b4392ef51ba13ff6b8e5b41553c0057d652fec70a9e82dd2d4b61e04a"
+  },
+  "observations": [
+    "README headings, table and relative chart image rendered.",
+    "Report headings/tables and six relative image paths rendered.",
+    "Chart titles, units, window, denominators and actual results inspected; no synthetic values mixed in.",
+    "Delivery labels and category names readable; freight chart is intentionally tall for 52 categories."
+  ]
+}

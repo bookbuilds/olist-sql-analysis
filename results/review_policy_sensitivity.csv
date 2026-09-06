@@ -1,0 +1,16 @@
+review_policy,delivery_bucket,n_orders,n_reviewed_orders,avg_order_review
+latest,Early 5+ days,77580,77159,4.3
+latest,Early 1-4 days,5110,5064,4.05
+latest,On promised date,1024,1014,3.95
+latest,Late 1-5 days,2480,2438,2.95
+latest,Late 6+ days,3658,3555,1.73
+earliest,Early 5+ days,77580,77159,4.3
+earliest,Early 1-4 days,5110,5064,4.05
+earliest,On promised date,1024,1014,3.95
+earliest,Late 1-5 days,2480,2438,2.95
+earliest,Late 6+ days,3658,3555,1.73
+order_mean,Early 5+ days,77580,77159,4.3
+order_mean,Early 1-4 days,5110,5064,4.05
+order_mean,On promised date,1024,1014,3.95
+order_mean,Late 1-5 days,2480,2438,2.95
+order_mean,Late 6+ days,3658,3555,1.73

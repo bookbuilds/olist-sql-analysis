@@ -1,0 +1,37 @@
+{
+  "checks_passed": 8,
+  "checks": [
+    {
+      "check": "chart_rejects_result_changed_after_QA",
+      "passed": true
+    },
+    {
+      "check": "chart_rejects_marker_without_hashes",
+      "passed": true
+    },
+    {
+      "check": "chart_rejects_failed_QA",
+      "passed": true
+    },
+    {
+      "check": "report_rejects_changed_window_even_with_new_certificate",
+      "passed": true
+    },
+    {
+      "check": "report_checks_findings_beyond_three_headline_metrics",
+      "passed": true
+    },
+    {
+      "check": "report_rejects_changed_figure",
+      "passed": true
+    },
+    {
+      "check": "input_rejects_same_size_wrong_hash",
+      "passed": true
+    },
+    {
+      "check": "synthetic_suite_works_from_foreign_working_directory",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "files": [
+    "schema.csv",
+    "reviews_multiplicity.csv",
+    "daily_status.csv",
+    "payments_multiplicity.csv",
+    "monthly_status.csv",
+    "untranslated_products.csv",
+    "dates.csv",
+    "raw_checks.csv"
+  ],
+  "comparison": "byte-identical"
+}

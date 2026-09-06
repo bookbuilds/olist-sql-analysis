@@ -1,0 +1,146 @@
+{
+  "status": "PASS",
+  "comparisons": [
+    {
+      "file": "Q01.csv",
+      "rows": 8,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q02.csv",
+      "rows": 8,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q03.csv",
+      "rows": 15,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q04.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q05.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q06.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q07.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q08.csv",
+      "rows": 95,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q09.csv",
+      "rows": 19,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q10.csv",
+      "rows": 3,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q11.csv",
+      "rows": 5,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "Q12.csv",
+      "rows": 2793,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "category_review_sensitivity.csv",
+      "rows": 222,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "category_totals_cents.csv",
+      "rows": 74,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "delivery_numerators.csv",
+      "rows": 5,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "join_inflation_diagnostic.csv",
+      "rows": 1,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "monthly_maturity.csv",
+      "rows": 25,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "review_policy_sensitivity.csv",
+      "rows": 15,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "unknown_categories.csv",
+      "rows": 3,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    },
+    {
+      "file": "window_sensitivity.csv",
+      "rows": 3,
+      "passed": true,
+      "numeric_cells_within_tolerance": 0,
+      "byte_identical": true
+    }
+  ],
+  "tolerance": "Counts/ranks/cents/text/order exact; *_brl <= 0.01 BRL; percentage/average columns <= 1e-9; metrics/window exact."
+}

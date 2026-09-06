@@ -1,0 +1,1277 @@
+{
+  "files": [
+    {
+      "path": ".DS_Store",
+      "size_bytes": 8196,
+      "sha256": "c76cc92c34ee413374a0d1f94e39d34c64de07a22f4fabdeeda84b59db0bdcd1"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_customers_dataset.csv",
+      "size_bytes": 9033957,
+      "sha256": "983a422239e1712ded753b3bf9ecf47dc73f144d306029dcfa99e70a226883d2"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_geolocation_dataset.csv",
+      "size_bytes": 61273883,
+      "sha256": "b514f6fc991b9566aeba02aa5d67e2c3630f034b60a0e05aa0d082a3b66d88d6"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_order_items_dataset.csv",
+      "size_bytes": 15438671,
+      "sha256": "0bc4d068c4fe38cbb01bd90e8746e3c613fe7b4baef75fab7b0e329701c3e279"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_order_payments_dataset.csv",
+      "size_bytes": 5777138,
+      "sha256": "4f713964f2815dbbaa40b9488268c55aac3627bfce5aa96cf58d1f3616de3cc0"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_order_reviews_dataset.csv",
+      "size_bytes": 14451670,
+      "sha256": "012b61c7593e34f51fa614efdf802b9c7056ce6aae5307ddb93236e7cfc797d7"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_orders_dataset.csv",
+      "size_bytes": 17654914,
+      "sha256": "8df58ef3d2d7e9944010f7beecd9b75367f5588ec6e3c91cec19ae3345ef9ecf"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_products_dataset.csv",
+      "size_bytes": 2379446,
+      "sha256": "3e6569628a17fbc75fd206ee357b59e20364b9afa90f5b6cd5b4d624c58aa9cc"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/olist_sellers_dataset.csv",
+      "size_bytes": 174703,
+      "sha256": "1f643d2b950373b85735e7794b20986f528d7a000432e7c6f9bcbb44d0846a0e"
+    },
+    {
+      "path": "Olist Project 1 Sept 6/product_category_name_translation.csv",
+      "size_bytes": 2613,
+      "sha256": "a81f0d1f27b27e7293f761bc79e3ce8f348ee39c4b3ed3e49bde38f478586278"
+    },
+    {
+      "path": "Olist Project 1 Sept 6.zip",
+      "size_bytes": 44717580,
+      "sha256": "967e41e04fc306fe604e2a693f488995a8b41e5047418f8a5c8e4abd6deca784"
+    },
+    {
+      "path": "Project 1 Olist SQL Executed Sept 6.zip",
+      "size_bytes": 2145106,
+      "sha256": "bcf04c76ea429bf66e30526083b9b4242081dccc67054f22a07f5c1077e31c2a"
+    },
+    {
+      "path": "Project 1 Olist SQL Report.html",
+      "size_bytes": 1378782,
+      "sha256": "9227b79fb099ab8603fa88e3008acd8b5934f9bebbe5510647f2b17815d5e8bc"
+    },
+    {
+      "path": "Project 1 State Sept 6 2026.md",
+      "size_bytes": 5462,
+      "sha256": "05ad80bc9b531abc8032983ec13256c67cb6fa15b9712c079f5df7db7d20f541"
+    },
+    {
+      "path": "olist_sql/06_analysis.sql",
+      "size_bytes": 7934,
+      "sha256": "2147695d14ab35f8949a1de013a9456737cc62183b64d4b17137297b13a4a154"
+    },
+    {
+      "path": "olist_sql/07_import_olist.py",
+      "size_bytes": 3996,
+      "sha256": "7953b412add7f8d9483a61bd3d5d235adef14dd4d0b57ac055b2a929d9c08628"
+    },
+    {
+      "path": "olist_sql/08_test_p1.py",
+      "size_bytes": 7672,
+      "sha256": "bc63876d8979b0fb9bdb96fffc29aec11213746012e811b711abd8031e23cc08"
+    },
+    {
+      "path": "olist_sql/09_audit_raw.py",
+      "size_bytes": 4613,
+      "sha256": "7e5eaaa301b989ed7f640088cfb2fcdd84cfc7cae19d5e4a0f11bfa96f008786"
+    },
+    {
+      "path": "olist_sql/10_run_analysis.py",
+      "size_bytes": 9641,
+      "sha256": "61966a15072ed841189fd8282f9e00315c1420f1269330f0398190fe625e0475"
+    },
+    {
+      "path": "olist_sql/11_make_charts.py",
+      "size_bytes": 6211,
+      "sha256": "629211354c4b889f5bdbf5317d31d3a7b47feee8b7086328604299fa73763aa9"
+    },
+    {
+      "path": "olist_sql/12_execute_notebook.py",
+      "size_bytes": 4574,
+      "sha256": "c9fa2f0cfd569d58c2e4da9fea1c4cb2fb4156778f20efb8e651ee073d39bd76"
+    },
+    {
+      "path": "olist_sql/13_supplemental.sql",
+      "size_bytes": 950,
+      "sha256": "36eb7d85da2e83689c33f39e8f774f01c5d222e84c868467f804979a985c4c80"
+    },
+    {
+      "path": "olist_sql/14_build_report.py",
+      "size_bytes": 17676,
+      "sha256": "41a79075541586b0c6a993f9911aa78f6a416a1c378d9b9118b5d02165532dfc"
+    },
+    {
+      "path": "olist_sql/CLAIMS_LEDGER.csv",
+      "size_bytes": 3776,
+      "sha256": "c5fb8ff9dff43dc979656fa8c2dee7b1bbd22ec4ab7ee0f224fb3bad3bc02b6d"
+    },
+    {
+      "path": "olist_sql/EXECUTIVE_SUMMARY.html",
+      "size_bytes": 2777,
+      "sha256": "9151162192ef4ca6ff54c604e5a9ba7cae33d242dd971a64e71ed3e567a5445c"
+    },
+    {
+      "path": "olist_sql/EXECUTIVE_SUMMARY.md",
+      "size_bytes": 2006,
+      "sha256": "5c3271a5020a92c5413ccc44743ff3a6a41910b72d4d9816c9c07e2c372f96b1"
+    },
+    {
+      "path": "olist_sql/INTERVIEW_WALKTHROUGH_TH.md",
+      "size_bytes": 6986,
+      "sha256": "bf525830260e039ea7cc40e8b22fa61758512de50614308e3f770a754fd4f07a"
+    },
+    {
+      "path": "olist_sql/PACKAGE_MANIFEST.json",
+      "size_bytes": 10751,
+      "sha256": "57fddb6ccf635b2c57c87caddee5aa65b2384a96083cc671ef28822f8c412038"
+    },
+    {
+      "path": "olist_sql/PORTFOLIO_CARD.html",
+      "size_bytes": 2180,
+      "sha256": "8c22f1925ac4490602e832904e74ed1a07fa79d8cbea4b013d08437eea03feb4"
+    },
+    {
+      "path": "olist_sql/PORTFOLIO_CARD.md",
+      "size_bytes": 1328,
+      "sha256": "754e2f0d29b7673b5e49f04f979b00da1eaaabd7992ded92b68569242725565e"
+    },
+    {
+      "path": "olist_sql/PROJECT_STATE_2026-09-06_EXECUTED.md",
+      "size_bytes": 5462,
+      "sha256": "05ad80bc9b531abc8032983ec13256c67cb6fa15b9712c079f5df7db7d20f541"
+    },
+    {
+      "path": "olist_sql/QUALITY_LOG.md",
+      "size_bytes": 6949,
+      "sha256": "bb52c2531059ff683fc70fcf844b354af8cd9407278dd9803c49f5b4e7ac6d3e"
+    },
+    {
+      "path": "olist_sql/README.md",
+      "size_bytes": 5025,
+      "sha256": "7e37f634a4424ac7339afd295c654112cb6a58e16810dca34b429800068fcdc3"
+    },
+    {
+      "path": "olist_sql/REPORT.html",
+      "size_bytes": 1378782,
+      "sha256": "9227b79fb099ab8603fa88e3008acd8b5934f9bebbe5510647f2b17815d5e8bc"
+    },
+    {
+      "path": "olist_sql/REPORT.md",
+      "size_bytes": 9831,
+      "sha256": "3fb54f4e52361b9b2b54af968cd28b2673377b8ec6a7b947d8ba667b706ef12a"
+    },
+    {
+      "path": "olist_sql/SOURCE_AND_DECISIONS.md",
+      "size_bytes": 4735,
+      "sha256": "663365978345e7066ba2ac6b841e8f266b2262aa8fb8d342bc0d23015ab28c12"
+    },
+    {
+      "path": "olist_sql/charts/01_category_pareto.png",
+      "size_bytes": 129993,
+      "sha256": "71529f2ba90e06f1d93def467506720cdef14dd843793eb4e12f170ee34a48f1"
+    },
+    {
+      "path": "olist_sql/charts/01_category_pareto.svg",
+      "size_bytes": 66728,
+      "sha256": "34eb8b361f04af6b633b0aee0c7778a53073b97d93c95245d28122cdf5115f14"
+    },
+    {
+      "path": "olist_sql/charts/02_volume_price.png",
+      "size_bytes": 128683,
+      "sha256": "a1d69ab49efbacfb79bfe2decfc633454f0a50cae3e461b5cbad7df1c2852ca9"
+    },
+    {
+      "path": "olist_sql/charts/02_volume_price.svg",
+      "size_bytes": 83765,
+      "sha256": "1557aa6dea74f95c5dbfbf31e1ebfc03b9329441b52ed6b6e4a732e09bce28ea"
+    },
+    {
+      "path": "olist_sql/charts/03_delivery_reviews.png",
+      "size_bytes": 133717,
+      "sha256": "327ae79be22b8ff2cef6ba433fe400f9cfc3cac1c99a2a528a9b8c4cd8878d5f"
+    },
+    {
+      "path": "olist_sql/charts/03_delivery_reviews.svg",
+      "size_bytes": 74690,
+      "sha256": "f349ad3eef7321e59466248df16664c0456c456f4f6b76900ae5b2393c4ed46c"
+    },
+    {
+      "path": "olist_sql/charts/04_monthly_top5.png",
+      "size_bytes": 246016,
+      "sha256": "610089c1eda8f90f0c2b3eda56a8c527b969bd7c7d89fe3b4f4004017555e684"
+    },
+    {
+      "path": "olist_sql/charts/04_monthly_top5.svg",
+      "size_bytes": 75916,
+      "sha256": "a372b8655d0921604802cabe19653d803c50df8bedfdc8eccf7b8eecdd60e926"
+    },
+    {
+      "path": "olist_sql/charts/05_freight_ratio.png",
+      "size_bytes": 261020,
+      "sha256": "92ed7e7c39f024533cdd0aa68dca0c6c56f9f96a42ef155ad406938e53ea9826"
+    },
+    {
+      "path": "olist_sql/charts/05_freight_ratio.svg",
+      "size_bytes": 144310,
+      "sha256": "37ae71de75e9303ddd2d89df6273c2521ad382a73b73d8cefa9ec19ceaef2351"
+    },
+    {
+      "path": "olist_sql/charts/06_seller_concentration.png",
+      "size_bytes": 126076,
+      "sha256": "e49a5ddca8b1a151219638642370623ce514ed3fdd276073f46c0c4ee4757a75"
+    },
+    {
+      "path": "olist_sql/charts/06_seller_concentration.svg",
+      "size_bytes": 61217,
+      "sha256": "6ea45ca812a992b11e1c740db25932fccd36138d7940e1f699b1c56f5f3258bb"
+    },
+    {
+      "path": "olist_sql/evidence/metadata.json",
+      "size_bytes": 17016,
+      "sha256": "987b892b203e1226e6aa5fe4cd2a0ea202392c804d5a2e627edff2ed9c4b66b3"
+    },
+    {
+      "path": "olist_sql/evidence/notebook_execution.log",
+      "size_bytes": 159,
+      "sha256": "0bcb64c4a570b84f0eaa7b77a8e61da4c818e97ee79114d42ce87d4ae0242c33"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/daily_status.csv",
+      "size_bytes": 18269,
+      "sha256": "7b9c6375c6cc2f298911849b9f6d08086fe098e419ccf5c9bbc3205956c052b5"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/dates.csv",
+      "size_bytes": 402,
+      "sha256": "2376f8c6eff2dec99a49e938a93e3be20f911d93cf5d2af739bc9c8f7b5f079f"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/input_manifest.json",
+      "size_bytes": 1708,
+      "sha256": "aabbb9e118842d602ea09141ba4825d58f4e5cda4a7d8f340efe706639c5ef2c"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/monthly_status.csv",
+      "size_bytes": 863,
+      "sha256": "fe60e4a825cc33244b65e2e0661b10a7104dcccbd7b14849a213bd52234bfa54"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/payments_multiplicity.csv",
+      "size_bytes": 130,
+      "sha256": "1b5637df5f71411397a66b0d0861c750f75d8b67ca6741dbfddf1b0bca7b1430"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/raw_checks.csv",
+      "size_bytes": 1366,
+      "sha256": "9e4879c891772664eff03ad15007ef6dc32f5de4c79792683cd29d5fc708a04e"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/reviews_multiplicity.csv",
+      "size_bytes": 42,
+      "sha256": "b3edad35e4f6705bb6a8ab3343330bfe4bc49b280fb477cfc32ff096a1835096"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/schema.csv",
+      "size_bytes": 1896,
+      "sha256": "dfeb54066a186e7f87bb6e90f07490e40de4c2842c623a33da6f5f0cd4ce8d0d"
+    },
+    {
+      "path": "olist_sql/evidence/raw_audit/untranslated_products.csv",
+      "size_bytes": 80,
+      "sha256": "30652714fc5efb88c3f8cd792afb8b84121fed940e99cbcb6205cdecdd9c7505"
+    },
+    {
+      "path": "olist_sql/evidence/source_code_hashes.json",
+      "size_bytes": 1273,
+      "sha256": "87ce5bd1ad81d7d76eaf1fd47494690018f5672d754e6b5215f0c2fe7df0e3cb"
+    },
+    {
+      "path": "olist_sql/evidence/synthetic_tests.log",
+      "size_bytes": 1347,
+      "sha256": "b833abab41034dd1b537194ab2f2eaf7365443190cf746b68415f45832e37897"
+    },
+    {
+      "path": "olist_sql/executed_analysis.ipynb",
+      "size_bytes": 28494,
+      "sha256": "8e1c0d676a6700f6123ff89646cb00b1a3ba962490d49b3cb3576045f7308281"
+    },
+    {
+      "path": "olist_sql/olist.manifest.json",
+      "size_bytes": 1510,
+      "sha256": "88dad9a9bac7b320e1cb3a08d71fce4b56511cad37fe48582df8ecfaa79c339e"
+    },
+    {
+      "path": "olist_sql/reference_v2/02_PROJECT_REFERENCE.md",
+      "size_bytes": 2557,
+      "sha256": "e7bd7ec5fbb98ee3010811b73342ba9853d63de9b054e7f1e80c4619f6d51c2d"
+    },
+    {
+      "path": "olist_sql/reference_v2/03_GUIDE_v2.md",
+      "size_bytes": 19171,
+      "sha256": "dd2cf074e17e83646d123fb2149894536d381c9f89708db654c05ff50963f0b5"
+    },
+    {
+      "path": "olist_sql/reference_v2/04_QA_AND_HANDOFF.md",
+      "size_bytes": 2870,
+      "sha256": "1ecdcaf4c97c1c80ecb05a6c1d0d2ea2b12d3d158d27f7f46385062d40c5e437"
+    },
+    {
+      "path": "olist_sql/reference_v2/PROJECT_STATE_2026-09-06_PREVIOUS.md",
+      "size_bytes": 1564,
+      "sha256": "b4a450fd7a96eb0f4cac9aa8cdd2b89d311d882f5b47eb531518f64153a4d292"
+    },
+    {
+      "path": "olist_sql/requirements-tested.txt",
+      "size_bytes": 46,
+      "sha256": "0bf7466ec8d0bc18d2ecc5db4bae9e132590df827eba743092e88474b4800849"
+    },
+    {
+      "path": "olist_sql/results/Q01.csv",
+      "size_bytes": 129,
+      "sha256": "c5e773765190fc299c11ac1fbb9db0c6998e12197f00fb7e90c8f3afd72f297b"
+    },
+    {
+      "path": "olist_sql/results/Q02.csv",
+      "size_bytes": 478,
+      "sha256": "785b020edcdf13f3343786a2acdc74b64f657588ef6dcc0692c07a8c800db5b4"
+    },
+    {
+      "path": "olist_sql/results/Q03.csv",
+      "size_bytes": 642,
+      "sha256": "e7740cd5611566b312002abb1ae2f776c03917e9ecb13580e1ae005d47a55474"
+    },
+    {
+      "path": "olist_sql/results/Q04.csv",
+      "size_bytes": 2795,
+      "sha256": "e6086d8ae6829482e8cca903214093ce3dbdd51e5a57f62d10bb32e2cc6341f6"
+    },
+    {
+      "path": "olist_sql/results/Q05.csv",
+      "size_bytes": 3366,
+      "sha256": "80669d9d5ecf28c667f54c3b5722161593058a9b2fd9ec07dffddb61e13108b1"
+    },
+    {
+      "path": "olist_sql/results/Q06.csv",
+      "size_bytes": 2749,
+      "sha256": "fb0af84c1368376aaec72f07d42d2aea726637abb60623aa8de5fe61cd9bfa4d"
+    },
+    {
+      "path": "olist_sql/results/Q07.csv",
+      "size_bytes": 3334,
+      "sha256": "b8b17d98f2e480eeb49794cb6e2dbd5596d511df316c37fb75c735d4bf356581"
+    },
+    {
+      "path": "olist_sql/results/Q08.csv",
+      "size_bytes": 3538,
+      "sha256": "8ba921cbdb8a3a6efd420e416a8978a7a2a07f90b3b933fff555dd16edb71d2e"
+    },
+    {
+      "path": "olist_sql/results/Q09.csv",
+      "size_bytes": 475,
+      "sha256": "c069fd3aeb30a1a629286b5cfc3e8c492b42f93b9d351bbad60a30df81297f36"
+    },
+    {
+      "path": "olist_sql/results/Q10.csv",
+      "size_bytes": 97,
+      "sha256": "f6f89eda1a7c68980bd839c11f74aeb3ede91acf712ff36db143ebb26ccba90e"
+    },
+    {
+      "path": "olist_sql/results/Q11.csv",
+      "size_bytes": 209,
+      "sha256": "870d6e1c50323c52aec0668d74730fe61d1b9a89606d8777198bfb8510e0e67e"
+    },
+    {
+      "path": "olist_sql/results/Q12.csv",
+      "size_bytes": 167906,
+      "sha256": "d46d4845ffae9cb7ce89a1ff7a7c0ac1c40b9a654a5e748664cbaeab5677b013"
+    },
+    {
+      "path": "olist_sql/results/QA_PASSED.json",
+      "size_bytes": 147,
+      "sha256": "62b0dd32954e90f490c66a47210f5d37937d4dcee4568c23d90fb6c0c4effd8b"
+    },
+    {
+      "path": "olist_sql/results/category_review_sensitivity.csv",
+      "size_bytes": 10092,
+      "sha256": "8a0c9afc6aaf61b93d773115968f81861e797cf48856dbee7020340cef4da4a6"
+    },
+    {
+      "path": "olist_sql/results/category_totals_cents.csv",
+      "size_bytes": 2522,
+      "sha256": "633f658fb657677f619ca6119e2308aec8af3fb6f1f8c1a65cb239278a9ed24b"
+    },
+    {
+      "path": "olist_sql/results/delivery_numerators.csv",
+      "size_bytes": 358,
+      "sha256": "26799b4e6e8659cb74bd3a816ca5b65ddb560472cdec00fb85196a1631e24957"
+    },
+    {
+      "path": "olist_sql/results/join_inflation_diagnostic.csv",
+      "size_bytes": 118,
+      "sha256": "bd934dd065943890556b0620506eb978f73614bf46bae069aa7cb76358873e26"
+    },
+    {
+      "path": "olist_sql/results/metrics.json",
+      "size_bytes": 682,
+      "sha256": "1d5a934924005b27cc5e1097faf5585a8b22570abd9945366e70c9f475a3c7be"
+    },
+    {
+      "path": "olist_sql/results/monthly_maturity.csv",
+      "size_bytes": 2493,
+      "sha256": "5f9a5663038b9d3d6cee7ecb70b3502da5cc487a022d4d3384e71d22004fad5a"
+    },
+    {
+      "path": "olist_sql/results/qa_checks.csv",
+      "size_bytes": 817,
+      "sha256": "5e364c1916900ad95dddb42473ada83abf93141d14b91d9af2e643c6bc4d097c"
+    },
+    {
+      "path": "olist_sql/results/query_execution.csv",
+      "size_bytes": 1125,
+      "sha256": "e97f9fa63ab7e72f260f0ab92101ee21dcc26f091426f5085e392454ba32cfac"
+    },
+    {
+      "path": "olist_sql/results/review_policy_sensitivity.csv",
+      "size_bytes": 656,
+      "sha256": "9eb927a3c112944b2544a86508ac6b8a6d398233ef6265bf62a6275f9ed51a51"
+    },
+    {
+      "path": "olist_sql/results/runtime.json",
+      "size_bytes": 181,
+      "sha256": "f8cebc1bbb1f75f9021ce5cae367eb8a3f3f77fe2d23369ddbb34ef850a5194c"
+    },
+    {
+      "path": "olist_sql/results/unknown_categories.csv",
+      "size_bytes": 173,
+      "sha256": "c4fad82870996bedd057d6d55e39880fd4114d1dcc3d1bde648bdd0cc2f0a339"
+    },
+    {
+      "path": "olist_sql/results/window_sensitivity.csv",
+      "size_bytes": 248,
+      "sha256": "1ca3a09cc9805e63b9b8298d82ecba0759e1fdbda222b47e7f2ae9930e740d16"
+    }
+  ],
+  "duplicates": [
+    [
+      "Project 1 Olist SQL Report.html",
+      "olist_sql/REPORT.html"
+    ],
+    [
+      "Project 1 State Sept 6 2026.md",
+      "olist_sql/PROJECT_STATE_2026-09-06_EXECUTED.md"
+    ]
+  ],
+  "dependencies": [
+    {
+      "path": "olist_sql/07_import_olist.py",
+      "imports": [
+        "from pathlib import Path",
+        "from contextlib import closing",
+        "import argparse, json, sqlite3, hashlib, re",
+        "import numpy as np",
+        "import pandas as pd"
+      ],
+      "path_references": [
+        {
+          "line": 2,
+          "text": "Usage: python 07_import_olist.py --data data/raw --db olist.db \\"
+        },
+        {
+          "line": 13,
+          "text": "'customers':'olist_customers_dataset.csv', 'geolocation':'olist_geolocation_dataset.csv',"
+        },
+        {
+          "line": 14,
+          "text": "'order_items':'olist_order_items_dataset.csv','payments':'olist_order_payments_dataset.csv',"
+        },
+        {
+          "line": 15,
+          "text": "'reviews':'olist_order_reviews_dataset.csv','orders':'olist_orders_dataset.csv',"
+        },
+        {
+          "line": 16,
+          "text": "'products':'olist_products_dataset.csv','sellers':'olist_sellers_dataset.csv',"
+        },
+        {
+          "line": 17,
+          "text": "'category_translation':'product_category_name_translation.csv'}"
+        },
+        {
+          "line": 57,
+          "text": "db.with_suffix('.manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')"
+        }
+      ]
+    },
+    {
+      "path": "olist_sql/08_test_p1.py",
+      "imports": [
+        "import unittest, sqlite3, re, tempfile, importlib.util",
+        "from pathlib import Path",
+        "from contextlib import closing",
+        "import pandas as pd"
+      ],
+      "path_references": [
+        {
+          "line": 1,
+          "text": "\"\"\"Synthetic regression tests, not actual Olist outputs. Run: python 08_test_p1.py\"\"\""
+        },
+        {
+          "line": 6,
+          "text": "HERE=Path(__file__).parent"
+        },
+        {
+          "line": 7,
+          "text": "spec=importlib.util.spec_from_file_location('importer',HERE/'07_import_olist.py')"
+        },
+        {
+          "line": 44,
+          "text": "parts=re.split(r'-- Q\\d+:', (HERE/'06_analysis.sql').read_text())"
+        },
+        {
+          "line": 74,
+          "text": "root=Path(td)"
+        },
+        {
+          "line": 80,
+          "text": "self.assertTrue(db.with_suffix('.manifest.json').exists())"
+        },
+        {
+          "line": 84,
+          "text": "root=Path(td);data=fixture()"
+        },
+        {
+          "line": 95,
+          "text": "root=Path(td)"
+        }
+      ]
+    },
+    {
+      "path": "olist_sql/09_audit_raw.py",
+      "imports": [
+        "from pathlib import Path",
+        "import argparse, hashlib, json, importlib.util",
+        "import pandas as pd"
+      ],
+      "path_references": [
+        {
+          "line": 5,
+          "text": "HERE=Path(__file__).resolve().parent"
+        },
+        {
+          "line": 6,
+          "text": "s=importlib.util.spec_from_file_location('imp',HERE/'07_import_olist.py');imp=importlib.util.module_from_spec(s);s.loader.exec_module(imp)"
+        },
+        {
+          "line": 25,
+          "text": "cnt.value_counts().sort_index().rename_axis('rows_per_order').reset_index(name='n_orders').to_csv(out/(t+'_multiplicity.csv'),index=False)"
+        },
+        {
+          "line": 30,
+          "text": "pd.crosstab(dt.dt.strftime('%Y-%m'),o.order_status).reindex(pd.period_range(dt.min(),dt.max(),freq='M').astype(str),fill_value=0).rename_axis('purchase_month').reset_index().to_csv(out/'monthly_status.csv',index=False)"
+        },
+        {
+          "line": 31,
+          "text": "pd.crosstab(dt.dt.strftime('%Y-%m-%d'),o.order_status).rename_axis('purchase_date').reset_index().to_csv(out/'daily_status.csv',index=False)"
+        },
+        {
+          "line": 42,
+          "text": "un=p.loc[cat.ne('')&~cat.isin(tr.product_category_name),'product_category_name'].value_counts().rename_axis('category').reset_index(name='n_products');un.to_csv(out/'untranslated_products.csv',index=False)"
+        },
+        {
+          "line": 43,
+          "text": "for name,rows in [('schema',schema),('raw_checks',issues),('dates',dates)]:pd.DataFrame(rows).to_csv(out/(name+'.csv'),index=False)"
+        },
+        {
+          "line": 44,
+          "text": "(out/'input_manifest.json').write_text(json.dumps(manifest,indent=2))"
+        }
+      ]
+    },
+    {
+      "path": "olist_sql/10_run_analysis.py",
+      "imports": [
+        "from pathlib import Path",
+        "import argparse, json, re, sqlite3, sys, time, hashlib",
+        "import pandas as pd",
+        "import numpy as np"
+      ],
+      "path_references": [
+        {
+          "line": 6,
+          "text": "HERE=Path(__file__).resolve().parent"
+        },
+        {
+          "line": 13,
+          "text": "parts=re.split(r'-- Q\\d+:',(HERE/'06_analysis.sql').read_text())"
+        },
+        {
+          "line": 21,
+          "text": "d.to_csv(out/f'Q{i:02}.csv',index=False);timings.append({'query':f'Q{i:02}','rows':len(d),'seconds':time.perf_counter()-st,'sql_sha256':hashlib.sha256(sql.encode()).hexdigest()})"
+        },
+        {
+          "line": 27,
+          "text": "cats.to_csv(out/'category_totals_cents.csv',index=False)"
+        },
+        {
+          "line": 60,
+          "text": "cats[cats.category.eq('__UNKNOWN__')|cats.category.str.startswith('UNTRANSLATED:')].to_csv(out/'unknown_categories.csv',index=False)"
+        },
+        {
+          "line": 63,
+          "text": "inflation['correct_item_sales_brl']=extra['item_sales_brl'];inflation['inflation_pct']=100*(inflation.naive_join_sales_brl/extra['item_sales_brl']-1);inflation.to_csv(out/'join_inflation_diagnostic.csv',index=False)"
+        },
+        {
+          "line": 71,
+          "text": "pd.concat(sensitivities).to_csv(out/'review_policy_sensitivity.csv',index=False)"
+        },
+        {
+          "line": 76,
+          "text": "pd.concat(cs).to_csv(out/'category_review_sensitivity.csv',index=False)"
+        },
+        {
+          "line": 81,
+          "text": "pd.concat(ws).to_csv(out/'window_sensitivity.csv',index=False)"
+        },
+        {
+          "line": 83,
+          "text": "q(\"\"\"SELECT strftime('%Y-%m',order_purchase_timestamp) month,COUNT(*) n_orders,SUM(order_status='delivered') delivered_orders,MIN(order_purchase_timestamp) first_purchase,MAX(order_purchase_timestamp) last_purchase,MAX(order_estimated_delivery_date) last_estimated_delivery,MAX(order_delivered_customer_date) last_observed_delivery FROM orders GROUP BY month ORDER BY month\"\"\").to_csv(out/'monthly_maturity.csv',index=False)"
+        },
+        {
+          "line": 84,
+          "text": "pd.DataFrame(checks).to_csv(out/'qa_checks.csv',index=False);pd.DataFrame(timings).to_csv(out/'query_execution.csv',index=False)"
+        },
+        {
+          "line": 85,
+          "text": "(out/'metrics.json').write_text(json.dumps(extra,indent=2,default=lambda x:int(x)))"
+        },
+        {
+          "line": 86,
+          "text": "versions={'python':sys.version,'sqlite':sqlite3.sqlite_version,'pandas':pd.__version__,'numpy':np.__version__,'randomness':'none; all rows; no sampling'}"
+        },
+        {
+          "line": 87,
+          "text": "(out/'runtime.json').write_text(json.dumps(versions,indent=2))"
+        },
+        {
+          "line": 89,
+          "text": "if not all(c['passed'] for c in checks):raise AssertionError('Reconciliation failed: inspect qa_checks.csv. Do not chart.')"
+        },
+        {
+          "line": 90,
+          "text": "(out/'QA_PASSED.json').write_text(json.dumps({'checks_passed':len(checks),'window':config},indent=2))"
+        }
+      ]
+    },
+    {
+      "path": "olist_sql/11_make_charts.py",
+      "imports": [
+        "from pathlib import Path",
+        "import argparse, json",
+        "import pandas as pd",
+        "import matplotlib",
+        "import matplotlib.pyplot as plt",
+        "from matplotlib.ticker import FuncFormatter"
+      ],
+      "path_references": [
+        {
+          "line": 7,
+          "text": "import matplotlib.pyplot as plt"
+        },
+        {
+          "line": 11,
+          "text": "if not (results/'QA_PASSED.json').exists():raise RuntimeError('QA gate absent; run analysis successfully first.')"
+        },
+        {
+          "line": 12,
+          "text": "out.mkdir(parents=True,exist_ok=True);m=json.loads((results/'metrics.json').read_text())"
+        },
+        {
+          "line": 15,
+          "text": "def read(n):return pd.read_csv(results/f'Q{n:02}.csv')"
+        },
+        {
+          "line": 43,
+          "text": "save(fig,'05_freight_ratio','Freight charged relative to category item sales',f\"Q05 | {len(d)} categories with >=100 item rows shown; denominator = each category's item sales. All categories in Q05.csv. Not shipping cost or margin.\")"
+        }
+      ]
+    },
+    {
+      "path": "olist_sql/12_execute_notebook.py",
+      "imports": [
+        "from pathlib import Path",
+        "import contextlib, io, json, traceback, os"
+      ],
+      "path_references": [
+        {
+          "line": 6,
+          "text": "ROOT=Path(__file__).resolve().parent"
+        },
+        {
+          "line": 10,
+          "text": "This notebook was executed by `12_execute_notebook.py` using Python exec in a fresh process. nbclient and nbformat packages were unavailable. It creates a temporary database, runs actual queries, and compares their outputs with delivered results. Synthetic tests run separately and are explicitly labeled. No synthetic row enters real-data results."
+        },
+        {
+          "line": 19,
+          "text": "print(json.dumps({'python':sys.version,'sqlite':sqlite3.sqlite_version,'pandas':pd.__version__},indent=2))"
+        },
+        {
+          "line": 20,
+          "text": "'''),('code', '''meta=json.loads((root/'evidence/metadata.json').read_text())"
+        },
+        {
+          "line": 21,
+          "text": "manifest=json.loads((root/'evidence/raw_audit/input_manifest.json').read_text())"
+        },
+        {
+          "line": 27,
+          "text": "'''),('code', '''temp=tempfile.TemporaryDirectory(prefix='olist_clean_');work=Path(temp.name)"
+        },
+        {
+          "line": 28,
+          "text": "run('09_audit_raw.py','--data','data/raw','--out',str(work/'audit'))"
+        },
+        {
+          "line": 29,
+          "text": "run('07_import_olist.py','--data','data/raw','--db',str(work/'clean.db'),'--start','2017-01-01','--end','2018-08-01')"
+        },
+        {
+          "line": 30,
+          "text": "run('10_run_analysis.py','--db',str(work/'clean.db'),'--out',str(work/'results'))"
+        },
+        {
+          "line": 32,
+          "text": "pd.testing.assert_frame_equal(pd.read_csv(work/'results'/f'Q{i:02}.csv'),pd.read_csv(root/'results'/f'Q{i:02}.csv'))"
+        },
+        {
+          "line": 35,
+          "text": "d=pd.read_csv(work/'results'/f'Q{i:02}.csv')"
+        },
+        {
+          "line": 38,
+          "text": "'''),('code', '''print(pd.read_csv(work/'results/qa_checks.csv').to_string(index=False))"
+        },
+        {
+          "line": 40,
+          "text": "print(pd.read_csv(work/'results/window_sensitivity.csv').to_string(index=False))"
+        },
+        {
+          "line": 42,
+          "text": "print(pd.read_csv(work/'results/review_policy_sensitivity.csv').to_string(index=False))"
+        },
+        {
+          "line": 44,
+          "text": "run('08_test_p1.py')"
+        },
+        {
+          "line": 45,
+          "text": "'''),('code', '''run('11_make_charts.py','--results','results','--out','charts')"
+        },
+        {
+          "line": 58,
+          "text": "cell['outputs'].append({'output_type':'error','ename':'ExecutionError','evalue':'Notebook execution failed','traceback':traceback.format_exc().splitlines()});nb['cells'].append(cell);(ROOT/'executed_analysis.ipynb').write_text(json.dumps(nb,indent=1));raise"
+        },
+        {
+          "line": 62,
+          "text": "(ROOT/'executed_analysis.ipynb').write_text(json.dumps(nb,indent=1))"
+        }
+      ]
+    },
+    {
+      "path": "olist_sql/14_build_report.py",
+      "imports": [
+        "from pathlib import Path",
+        "import json, html, base64, hashlib, sqlite3",
+        "import pandas as pd"
+      ],
+      "path_references": [
+        {
+          "line": 5,
+          "text": "R=Path(__file__).resolve().parent;O=R/'results'"
+        },
+        {
+          "line": 6,
+          "text": "m=json.loads((O/'metrics.json').read_text());q={i:pd.read_csv(O/f'Q{i:02}.csv') for i in range(1,13)}"
+        },
+        {
+          "line": 9,
+          "text": "with sqlite3.connect(R/'olist.db') as c:pd.read_sql_query((R/'13_supplemental.sql').read_text(),c).to_csv(O/'delivery_numerators.csv',index=False)"
+        },
+        {
+          "line": 24,
+          "text": "Source: [Olist's original Kaggle dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), downloaded anonymously in this run. The recorded metadata displays CC BY-NC-SA 4.0. See SOURCE_AND_DECISIONS.md and the input hash manifest for the exact version evidence and its ambiguity."
+        },
+        {
+          "line": 31,
+          "text": "{table(pd.read_csv(O/'window_sensitivity.csv'))}"
+        },
+        {
+          "line": 59,
+          "text": "Electronics records BRL 43,482.33 freight charged against BRL 144,196.37 item sales, a 30.15% ratio across 2,609 items. This is a reason to inspect the customer shipping proposition, not evidence of negative seller margin. The freight chart displays all 52 categories with at least 100 item rows; Q05.csv retains all 74 buckets. This display threshold does not change reconciled totals."
+        },
+        {
+          "line": 96,
+          "text": "Reproduce using README.md. Claims ledger, query CSVs, actual runtime versions, source hashes and quality checks accompany this report. These files do not automatically update ChatGPT Project sources."
+        },
+        {
+          "line": 98,
+          "text": "(R/'REPORT.md').write_text(report)"
+        },
+        {
+          "line": 116,
+          "text": "Evidence: REPORT.md, CLAIMS_LEDGER.csv, results/Q01–Q12.csv, results/qa_checks.csv. Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce (metadata license: CC BY-NC-SA 4.0)."
+        },
+        {
+          "line": 118,
+          "text": "(R/'EXECUTIVE_SUMMARY.md').write_text(summary)"
+        },
+        {
+          "line": 127,
+          "text": "| Delivered orders analyzed | 89,860 | eligible_orders; results/metrics.json; all have items |"
+        },
+        {
+          "line": 135,
+          "text": "(R/'PORTFOLIO_CARD.md').write_text(card)"
+        },
+        {
+          "line": 138,
+          "text": "('C01','89,860 eligible orders','count distinct eligible order_id','not applicable','orders','metrics.json; qa_checks.csv','All have items'),"
+        },
+        {
+          "line": 139,
+          "text": "('C02','102,738 item rows','count order_id + order_item_id','not applicable','items','metrics.json; qa_checks.csv','No join multiplication'),"
+        },
+        {
+          "line": 140,
+          "text": "('C03','12,342,450.49 item sales BRL','1,234,245,049 cents','100 cents/BRL','BRL','category_totals_cents.csv; qa_checks.csv','Excludes freight; no profit claim'),"
+        },
+        {
+          "line": 141,
+          "text": "('C04','Top 18 category buckets: 81.3609%','sum Q07 sales ranks 1..18','12,342,450.49 BRL','percent','Q07.csv','74 buckets includes unknown/untranslated'),"
+        },
+        {
+          "line": 142,
+          "text": "('C05','Late 6+ days mean score 1.73','6147 score points','3555 reviewed orders','score /5','Q11.csv; delivery_numerators.csv','Whole-order rating; association only'),"
+        },
+        {
+          "line": 143,
+          "text": "('C06','Early 5+ days mean score 4.30','332054 score points','77159 reviewed orders','score /5','Q11.csv; delivery_numerators.csv','Different populations; not causal'),"
+        },
+        {
+          "line": 144,
+          "text": "('C07','Office furniture low ratings 21.89%','266 low-rated orders','1215 reviewed orders','percent','Q06.csv','Rounded; multi-category attribution'),"
+        },
+        {
+          "line": 145,
+          "text": "('C08','Electronics freight ratio 30.15%','43482.33 freight BRL','144196.37 item sales BRL','percent','Q05.csv','Not cost or margin'),"
+        },
+        {
+          "line": 146,
+          "text": "('C09','Observed repeat buyers 3.00%','2609 buyers with 2+ orders','86960 valid observed buyers','percent','Q10.csv','Not lifetime retention'),"
+        },
+        {
+          "line": 147,
+          "text": "('C10','Top 503 sellers: 80.0024% item sales','sum Q12 sales ranks 1..503','12,342,450.49 BRL','percent','Q12.csv','2793 sellers; no service-quality inference'),"
+        },
+        {
+          "line": 148,
+          "text": "('C11','Unsafe raw join inflation 5.052983%','12966112.46 - 12342450.49 BRL','12342450.49 BRL','percent','join_inflation_diagnostic.csv','Diagnostic result; never the sales result'),"
+        },
+        {
+          "line": 149,
+          "text": "('C12','Unknown item sales 168461.69 BRL','16846169 cents','100 cents/BRL','BRL','unknown_categories.csv','1504 item rows retained'),"
+        },
+        {
+          "line": 150,
+          "text": "('C13','Top five categories 39.8293%','sum Q07 ranks 1..5 item sales','12342450.49 BRL','percent','Q07.csv','Same window'),"
+        },
+        {
+          "line": 152,
+          "text": "d=pd.DataFrame(claims,columns=['claim_id','exact_claim','numerator','denominator','units','result_files','limitation']);d['kind']='observed';d['window']=window;d['source_manifest']='evidence/raw_audit/input_manifest.json';d.to_csv(R/'CLAIMS_LEDGER.csv',index=False)"
+        },
+        {
+          "line": 173,
+          "text": "for name in ['REPORT','EXECUTIVE_SUMMARY','PORTFOLIO_CARD']:(R/(name+'.html')).write_text(to_html((R/(name+'.md')).read_text()))"
+        }
+      ]
+    }
+  ],
+  "archives": [
+    {
+      "path": "Olist Project 1 Sept 6.zip",
+      "members": [
+        {
+          "path": "olist_customers_dataset.csv",
+          "size_bytes": 9033957
+        },
+        {
+          "path": "olist_geolocation_dataset.csv",
+          "size_bytes": 61273883
+        },
+        {
+          "path": "olist_order_items_dataset.csv",
+          "size_bytes": 15438671
+        },
+        {
+          "path": "olist_order_payments_dataset.csv",
+          "size_bytes": 5777138
+        },
+        {
+          "path": "olist_order_reviews_dataset.csv",
+          "size_bytes": 14451670
+        },
+        {
+          "path": "olist_orders_dataset.csv",
+          "size_bytes": 17654914
+        },
+        {
+          "path": "olist_products_dataset.csv",
+          "size_bytes": 2379446
+        },
+        {
+          "path": "olist_sellers_dataset.csv",
+          "size_bytes": 174703
+        },
+        {
+          "path": "product_category_name_translation.csv",
+          "size_bytes": 2613
+        }
+      ]
+    },
+    {
+      "path": "Project 1 Olist SQL Executed Sept 6.zip",
+      "members": [
+        {
+          "path": "olist_sql/06_analysis.sql",
+          "size_bytes": 7934
+        },
+        {
+          "path": "olist_sql/07_import_olist.py",
+          "size_bytes": 3996
+        },
+        {
+          "path": "olist_sql/08_test_p1.py",
+          "size_bytes": 7672
+        },
+        {
+          "path": "olist_sql/09_audit_raw.py",
+          "size_bytes": 4613
+        },
+        {
+          "path": "olist_sql/10_run_analysis.py",
+          "size_bytes": 9641
+        },
+        {
+          "path": "olist_sql/11_make_charts.py",
+          "size_bytes": 6211
+        },
+        {
+          "path": "olist_sql/12_execute_notebook.py",
+          "size_bytes": 4574
+        },
+        {
+          "path": "olist_sql/13_supplemental.sql",
+          "size_bytes": 950
+        },
+        {
+          "path": "olist_sql/14_build_report.py",
+          "size_bytes": 17676
+        },
+        {
+          "path": "olist_sql/CLAIMS_LEDGER.csv",
+          "size_bytes": 3776
+        },
+        {
+          "path": "olist_sql/EXECUTIVE_SUMMARY.html",
+          "size_bytes": 2777
+        },
+        {
+          "path": "olist_sql/EXECUTIVE_SUMMARY.md",
+          "size_bytes": 2006
+        },
+        {
+          "path": "olist_sql/INTERVIEW_WALKTHROUGH_TH.md",
+          "size_bytes": 6986
+        },
+        {
+          "path": "olist_sql/PORTFOLIO_CARD.html",
+          "size_bytes": 2180
+        },
+        {
+          "path": "olist_sql/PORTFOLIO_CARD.md",
+          "size_bytes": 1328
+        },
+        {
+          "path": "olist_sql/PROJECT_STATE_2026-09-06_EXECUTED.md",
+          "size_bytes": 5462
+        },
+        {
+          "path": "olist_sql/QUALITY_LOG.md",
+          "size_bytes": 6949
+        },
+        {
+          "path": "olist_sql/README.md",
+          "size_bytes": 5025
+        },
+        {
+          "path": "olist_sql/REPORT.html",
+          "size_bytes": 1378782
+        },
+        {
+          "path": "olist_sql/REPORT.md",
+          "size_bytes": 9831
+        },
+        {
+          "path": "olist_sql/SOURCE_AND_DECISIONS.md",
+          "size_bytes": 4735
+        },
+        {
+          "path": "olist_sql/charts/01_category_pareto.png",
+          "size_bytes": 129993
+        },
+        {
+          "path": "olist_sql/charts/01_category_pareto.svg",
+          "size_bytes": 66728
+        },
+        {
+          "path": "olist_sql/charts/02_volume_price.png",
+          "size_bytes": 128683
+        },
+        {
+          "path": "olist_sql/charts/02_volume_price.svg",
+          "size_bytes": 83765
+        },
+        {
+          "path": "olist_sql/charts/03_delivery_reviews.png",
+          "size_bytes": 133717
+        },
+        {
+          "path": "olist_sql/charts/03_delivery_reviews.svg",
+          "size_bytes": 74690
+        },
+        {
+          "path": "olist_sql/charts/04_monthly_top5.png",
+          "size_bytes": 246016
+        },
+        {
+          "path": "olist_sql/charts/04_monthly_top5.svg",
+          "size_bytes": 75916
+        },
+        {
+          "path": "olist_sql/charts/05_freight_ratio.png",
+          "size_bytes": 261020
+        },
+        {
+          "path": "olist_sql/charts/05_freight_ratio.svg",
+          "size_bytes": 144310
+        },
+        {
+          "path": "olist_sql/charts/06_seller_concentration.png",
+          "size_bytes": 126076
+        },
+        {
+          "path": "olist_sql/charts/06_seller_concentration.svg",
+          "size_bytes": 61217
+        },
+        {
+          "path": "olist_sql/evidence/metadata.json",
+          "size_bytes": 17016
+        },
+        {
+          "path": "olist_sql/evidence/notebook_execution.log",
+          "size_bytes": 159
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/daily_status.csv",
+          "size_bytes": 18269
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/dates.csv",
+          "size_bytes": 402
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/input_manifest.json",
+          "size_bytes": 1708
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/monthly_status.csv",
+          "size_bytes": 863
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/payments_multiplicity.csv",
+          "size_bytes": 130
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/raw_checks.csv",
+          "size_bytes": 1366
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/reviews_multiplicity.csv",
+          "size_bytes": 42
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/schema.csv",
+          "size_bytes": 1896
+        },
+        {
+          "path": "olist_sql/evidence/raw_audit/untranslated_products.csv",
+          "size_bytes": 80
+        },
+        {
+          "path": "olist_sql/evidence/source_code_hashes.json",
+          "size_bytes": 1273
+        },
+        {
+          "path": "olist_sql/evidence/synthetic_tests.log",
+          "size_bytes": 1347
+        },
+        {
+          "path": "olist_sql/executed_analysis.ipynb",
+          "size_bytes": 28494
+        },
+        {
+          "path": "olist_sql/olist.manifest.json",
+          "size_bytes": 1510
+        },
+        {
+          "path": "olist_sql/reference_v2/02_PROJECT_REFERENCE.md",
+          "size_bytes": 2557
+        },
+        {
+          "path": "olist_sql/reference_v2/03_GUIDE_v2.md",
+          "size_bytes": 19171
+        },
+        {
+          "path": "olist_sql/reference_v2/04_QA_AND_HANDOFF.md",
+          "size_bytes": 2870
+        },
+        {
+          "path": "olist_sql/reference_v2/PROJECT_STATE_2026-09-06_PREVIOUS.md",
+          "size_bytes": 1564
+        },
+        {
+          "path": "olist_sql/requirements-tested.txt",
+          "size_bytes": 46
+        },
+        {
+          "path": "olist_sql/results/Q01.csv",
+          "size_bytes": 129
+        },
+        {
+          "path": "olist_sql/results/Q02.csv",
+          "size_bytes": 478
+        },
+        {
+          "path": "olist_sql/results/Q03.csv",
+          "size_bytes": 642
+        },
+        {
+          "path": "olist_sql/results/Q04.csv",
+          "size_bytes": 2795
+        },
+        {
+          "path": "olist_sql/results/Q05.csv",
+          "size_bytes": 3366
+        },
+        {
+          "path": "olist_sql/results/Q06.csv",
+          "size_bytes": 2749
+        },
+        {
+          "path": "olist_sql/results/Q07.csv",
+          "size_bytes": 3334
+        },
+        {
+          "path": "olist_sql/results/Q08.csv",
+          "size_bytes": 3538
+        },
+        {
+          "path": "olist_sql/results/Q09.csv",
+          "size_bytes": 475
+        },
+        {
+          "path": "olist_sql/results/Q10.csv",
+          "size_bytes": 97
+        },
+        {
+          "path": "olist_sql/results/Q11.csv",
+          "size_bytes": 209
+        },
+        {
+          "path": "olist_sql/results/Q12.csv",
+          "size_bytes": 167906
+        },
+        {
+          "path": "olist_sql/results/QA_PASSED.json",
+          "size_bytes": 147
+        },
+        {
+          "path": "olist_sql/results/category_review_sensitivity.csv",
+          "size_bytes": 10092
+        },
+        {
+          "path": "olist_sql/results/category_totals_cents.csv",
+          "size_bytes": 2522
+        },
+        {
+          "path": "olist_sql/results/delivery_numerators.csv",
+          "size_bytes": 358
+        },
+        {
+          "path": "olist_sql/results/join_inflation_diagnostic.csv",
+          "size_bytes": 118
+        },
+        {
+          "path": "olist_sql/results/metrics.json",
+          "size_bytes": 682
+        },
+        {
+          "path": "olist_sql/results/monthly_maturity.csv",
+          "size_bytes": 2493
+        },
+        {
+          "path": "olist_sql/results/qa_checks.csv",
+          "size_bytes": 817
+        },
+        {
+          "path": "olist_sql/results/query_execution.csv",
+          "size_bytes": 1125
+        },
+        {
+          "path": "olist_sql/results/review_policy_sensitivity.csv",
+          "size_bytes": 656
+        },
+        {
+          "path": "olist_sql/results/runtime.json",
+          "size_bytes": 181
+        },
+        {
+          "path": "olist_sql/results/unknown_categories.csv",
+          "size_bytes": 173
+        },
+        {
+          "path": "olist_sql/results/window_sensitivity.csv",
+          "size_bytes": 248
+        },
+        {
+          "path": "olist_sql/PACKAGE_MANIFEST.json",
+          "size_bytes": 10751
+        }
+      ]
+    }
+  ]
+}

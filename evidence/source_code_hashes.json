@@ -1,0 +1,16 @@
+{
+  "requirements.txt": "0bf7466ec8d0bc18d2ecc5db4bae9e132590df827eba743092e88474b4800849",
+  "sql/analysis.sql": "2147695d14ab35f8949a1de013a9456737cc62183b64d4b17137297b13a4a154",
+  "sql/supplemental_checks.sql": "36eb7d85da2e83689c33f39e8f774f01c5d222e84c868467f804979a985c4c80",
+  "src/audit_raw.py": "347327007a7df5ca021293096c90562114116226e903c06b48c3e4d97115128f",
+  "src/build_report.py": "64be94c5099f3c2338274d91814e391ac1bd4463f3d89ef735924acca8b2df52",
+  "src/check_package.py": "85b3ec1251b18d388603ae9b16c8242288df77856f7e4b59117dd79ad1571be9",
+  "src/import_olist.py": "e2b198a60b59c5169cb93e91ed5ebc8abb0577d518cade8f161d78136989cd2a",
+  "src/make_charts.py": "ca547cd06021475fb1a6dd642a329ea61aa84151906b9c224a55c759a170f960",
+  "src/provenance.py": "af3aa4f32e44b18b94756f2bfaf64f413fbe7a96da441ead27de026bb82e9f79",
+  "src/run_analysis.py": "d44e934c6745854833b07a818b29cef909fd1102d191e4b4884ee3762b7672fc",
+  "src/run_pipeline.py": "20feda420a12c30f1e68faeefe7a1a13bc8a53791ca4d1b6e86c6537c4197278",
+  "src/verify_results.py": "82752e6c92b7ca564bdd9a78810492b0fe506c181bf1c2377004ce0aca6ab07e",
+  "tests/check_guards.py": "8c3999d23bb059c07a582c8257b101f65a78e06bfa85818527100164558ff407",
+  "tests/test_olist.py": "6c5238e02737103c3dc0a11d917c55bd806df2466b6c1ddd9e339ca8970ecefa"
+}

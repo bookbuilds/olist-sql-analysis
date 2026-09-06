@@ -1,0 +1,33 @@
+{
+  "status": "PASS_ANALYTICAL_CONTENT_WITH_METADATA_EXCEPTION",
+  "files_checked": 93,
+  "unchanged_content_files": 92,
+  "metadata_differences": [
+    {
+      "path": ".DS_Store",
+      "original_bytes": 8196,
+      "current_bytes": 10244,
+      "original_sha256": "c76cc92c34ee413374a0d1f94e39d34c64de07a22f4fabdeeda84b59db0bdcd1",
+      "current_sha256": "e4ff5c7b16be2d9fa83fd85f3dcd8bfe497f2aee50dfa1bfc84bea7f600cf0f9"
+    }
+  ],
+  "added_or_removed_files": [],
+  "note": "All 92 data/code/document/archive files unchanged. Finder .DS_Store changed during the task; cause not established. No agent command edited the source tree. Do not restore or alter source Finder metadata; it is excluded from the package.",
+  "temporary_test_artifacts_cleanup": {
+    "status": "PASS",
+    "removed": [
+      "work/actual_reproduction/",
+      "work/final_docs/",
+      "work/matplotlib/",
+      "work/venv/",
+      "work/actual_pipeline.log",
+      "work/synthetic_tests.log",
+      "work/guard_checks.json",
+      "work/package_check_initial.log",
+      "work/package_check.log",
+      "work/final_package_checks.json",
+      "work/preview_port.txt"
+    ],
+    "preserved": "Original Project 1 tree and all final deliverables. Public-safe logs and aggregate evidence retained in evidence/. Temporary test/guard directories also cleaned by their context managers."
+  }
+}

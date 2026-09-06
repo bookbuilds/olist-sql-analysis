@@ -1,0 +1,27 @@
+{
+  "eligible_orders": 89860,
+  "orders_with_items": 89860,
+  "orders_without_items": 0,
+  "n_items": 102738,
+  "item_sales_brl": 12342450.49,
+  "n_category_buckets": 74,
+  "n_reviewed_eligible_orders": 89238,
+  "review_coverage_pct": 99.3078121522368,
+  "n_buyers_with_valid_id": 86960,
+  "eligible_orders_missing_buyer_id": 0,
+  "multi_category_orders": 708,
+  "unknown_seller_items": 0,
+  "delivery": {
+    "eligible_orders": 89860,
+    "missing_invalid_dates": 8,
+    "delivered_before_purchase": 0,
+    "same_date_orders": 1024
+  },
+  "window": {
+    "start_date": "2017-01-01",
+    "end_date": "2018-08-01",
+    "min_items": 1,
+    "min_reviews": 1
+  },
+  "n_month_bins": 19
+}

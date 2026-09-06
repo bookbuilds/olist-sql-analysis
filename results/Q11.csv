@@ -1,0 +1,6 @@
+delivery_bucket,n_orders,n_reviewed_orders,avg_order_review
+Early 5+ days,77580,77159,4.3
+Early 1-4 days,5110,5064,4.05
+On promised date,1024,1014,3.95
+Late 1-5 days,2480,2438,2.95
+Late 6+ days,3658,3555,1.73

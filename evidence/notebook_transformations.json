@@ -1,0 +1,38 @@
+{
+  "original_sha256": "8e1c0d676a6700f6123ff89646cb00b1a3ba962490d49b3cb3576045f7308281",
+  "changes": [
+    {
+      "cell": 0,
+      "change": "Portable repository paths in source; historical output retained."
+    },
+    {
+      "cell": 1,
+      "change": "Portable repository paths in source; historical output retained."
+    },
+    {
+      "cell": 2,
+      "change": "Portable repository paths in source; historical output retained."
+    },
+    {
+      "cell": 3,
+      "change": "Portable repository paths in source; historical output retained."
+    },
+    {
+      "cell": 3,
+      "change": "Replaced temporary directory string in stdout; metrics unchanged."
+    },
+    {
+      "cell": 5,
+      "change": "Portable repository paths in source; historical output retained."
+    },
+    {
+      "cell": 6,
+      "change": "Portable repository paths in source; historical output retained."
+    },
+    {
+      "cell": 7,
+      "change": "Portable repository paths in source; historical output retained."
+    }
+  ],
+  "preserved": "All seven execution counts, result values and outputs except the documented temporary path."
+}

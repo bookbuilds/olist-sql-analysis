@@ -1,0 +1,40 @@
+{
+  "checks_passed": 20,
+  "window": {
+    "start_date": "2017-01-01",
+    "end_date": "2018-08-01",
+    "min_items": 1,
+    "min_reviews": 1
+  },
+  "result_sha256": {
+    "Q01.csv": "c5e773765190fc299c11ac1fbb9db0c6998e12197f00fb7e90c8f3afd72f297b",
+    "Q02.csv": "785b020edcdf13f3343786a2acdc74b64f657588ef6dcc0692c07a8c800db5b4",
+    "Q03.csv": "e7740cd5611566b312002abb1ae2f776c03917e9ecb13580e1ae005d47a55474",
+    "Q04.csv": "e6086d8ae6829482e8cca903214093ce3dbdd51e5a57f62d10bb32e2cc6341f6",
+    "Q05.csv": "80669d9d5ecf28c667f54c3b5722161593058a9b2fd9ec07dffddb61e13108b1",
+    "Q06.csv": "fb0af84c1368376aaec72f07d42d2aea726637abb60623aa8de5fe61cd9bfa4d",
+    "Q07.csv": "b8b17d98f2e480eeb49794cb6e2dbd5596d511df316c37fb75c735d4bf356581",
+    "Q08.csv": "8ba921cbdb8a3a6efd420e416a8978a7a2a07f90b3b933fff555dd16edb71d2e",
+    "Q09.csv": "c069fd3aeb30a1a629286b5cfc3e8c492b42f93b9d351bbad60a30df81297f36",
+    "Q10.csv": "f6f89eda1a7c68980bd839c11f74aeb3ede91acf712ff36db143ebb26ccba90e",
+    "Q11.csv": "870d6e1c50323c52aec0668d74730fe61d1b9a89606d8777198bfb8510e0e67e",
+    "Q12.csv": "d46d4845ffae9cb7ce89a1ff7a7c0ac1c40b9a654a5e748664cbaeab5677b013",
+    "category_review_sensitivity.csv": "8a0c9afc6aaf61b93d773115968f81861e797cf48856dbee7020340cef4da4a6",
+    "category_totals_cents.csv": "633f658fb657677f619ca6119e2308aec8af3fb6f1f8c1a65cb239278a9ed24b",
+    "delivery_numerators.csv": "26799b4e6e8659cb74bd3a816ca5b65ddb560472cdec00fb85196a1631e24957",
+    "join_inflation_diagnostic.csv": "bd934dd065943890556b0620506eb978f73614bf46bae069aa7cb76358873e26",
+    "metrics.json": "1d5a934924005b27cc5e1097faf5585a8b22570abd9945366e70c9f475a3c7be",
+    "monthly_maturity.csv": "5f9a5663038b9d3d6cee7ecb70b3502da5cc487a022d4d3384e71d22004fad5a",
+    "review_policy_sensitivity.csv": "9eb927a3c112944b2544a86508ac6b8a6d398233ef6265bf62a6275f9ed51a51",
+    "unknown_categories.csv": "c4fad82870996bedd057d6d55e39880fd4114d1dcc3d1bde648bdd0cc2f0a339",
+    "window_sensitivity.csv": "1ca3a09cc9805e63b9b8298d82ecba0759e1fdbda222b47e7f2ae9930e740d16"
+  },
+  "evidence_sha256": {
+    "qa_checks.csv": "5e364c1916900ad95dddb42473ada83abf93141d14b91d9af2e643c6bc4d097c",
+    "query_execution.csv": "3e76fe5aab93036a1d0c80822da59b199fb0e6e96366755260ce53d4dd12ec1b",
+    "runtime.json": "5ea2773207deb5b2f5370e8ac398b0b953185420edbd9d4537890b6838790146",
+    "input_manifest.json": "aabbb9e118842d602ea09141ba4825d58f4e5cda4a7d8f340efe706639c5ef2c"
+  },
+  "analysis_sql_sha256": "2147695d14ab35f8949a1de013a9456737cc62183b64d4b17137297b13a4a154",
+  "supplemental_sql_sha256": "36eb7d85da2e83689c33f39e8f774f01c5d222e84c868467f804979a985c4c80"
+}

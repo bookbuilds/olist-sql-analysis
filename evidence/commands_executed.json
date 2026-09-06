@@ -1,0 +1,65 @@
+{
+  "path_notice": "Commands normalized to python and public-safe path labels; execution used the isolated QA interpreter. Labels identify actual local arguments; no user/account path is disclosed.",
+  "commands": [
+    {
+      "command": "python3 -m venv <qa-environment>",
+      "result": "PASS; isolated Python 3.12.14 environment"
+    },
+    {
+      "command": "python -m pip install --disable-pip-version-check --no-cache-dir -r requirements.txt markdown==3.8.2 nbformat==5.10.4",
+      "result": "PASS; pinned analytical dependencies installed. Markdown and nbformat used only for packaging QA."
+    },
+    {
+      "command": "python -m unittest discover -s tests -p test_olist.py -v",
+      "result": "12 tests passed, no original CSV access"
+    },
+    {
+      "command": "python src/run_pipeline.py --data <external-raw-directory> --out <temporary-run-directory>",
+      "result": "PASS; invoked the six stages listed below"
+    },
+    {
+      "command": "python src/audit_raw.py --data <external-raw-directory> --out <temporary-run-directory>/audit",
+      "result": "PASS; nine input hashes verified and pre-import audit regenerated"
+    },
+    {
+      "command": "python src/import_olist.py --data <external-raw-directory> --db <temporary-run-directory>/olist.db --start 2017-01-01 --end 2018-08-01",
+      "result": "PASS; fresh generated DB outside the public package"
+    },
+    {
+      "command": "python src/run_analysis.py --db <temporary-run-directory>/olist.db --out <temporary-run-directory>/results",
+      "result": "PASS; Q01\u2013Q12, supplemental SQL, sensitivities and 20 QA checks"
+    },
+    {
+      "command": "python src/verify_results.py --results <temporary-run-directory>/results --out <temporary-run-directory>/comparison.json",
+      "result": "PASS; all 20 aggregate CSVs byte-identical; metrics/window exact"
+    },
+    {
+      "command": "python src/make_charts.py --results <temporary-run-directory>/results --out <temporary-run-directory>/figures",
+      "result": "PASS; six PNGs, full seller curve, hash provenance"
+    },
+    {
+      "command": "python src/build_report.py --results <temporary-run-directory>/results --figures <temporary-run-directory>/figures --out <temporary-run-directory>/docs",
+      "result": "PASS; snapshot and figure gates checked"
+    },
+    {
+      "command": "python src/build_report.py --results results --figures figures --out docs_reproduced",
+      "result": "PASS after correcting Markdown indentation; same claims, correct relative links; generated files moved into docs"
+    },
+    {
+      "command": "python tests/check_guards.py",
+      "result": "8 checks passed, including 12 synthetic tests from a foreign working directory"
+    },
+    {
+      "command": "python src/check_package.py",
+      "result": "Final package validation; see package_checks.json"
+    },
+    {
+      "command": "nbformat.validate(nbformat.read(notebook, as_version=4)); compare historical outputs/counts",
+      "result": "PASS; seven historical counts/outputs preserved except documented temporary path"
+    },
+    {
+      "command": "Python zipfile: write content-relative archive, testzip(), compare every member SHA-256",
+      "result": "Final archive validation; see ZIP_VERIFICATION.json beside the ZIP"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+scenario,n_orders,n_items,item_sales_brl,start_date,end_date_exclusive
+main,89860,102738,12342450.49,2017-01-01,2018-08-01
+include_august,96211,109880,13181027.13,2017-01-01,2018-09-01
+exclude_january,89110,101825,12230652.13,2017-02-01,2018-08-01

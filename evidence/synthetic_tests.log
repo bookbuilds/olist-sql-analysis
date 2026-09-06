@@ -1,0 +1,17 @@
+test_all_12_execute (test_olist.TestOlist.test_all_12_execute) ... ok
+test_calendar_same_date_not_late (test_olist.TestOlist.test_calendar_same_date_not_late) ... ok
+test_import_rejects_blank_and_normalized_item_keys (test_olist.TestOlist.test_import_rejects_blank_and_normalized_item_keys) ... ok
+test_import_rejects_duplicate_keys_and_nonfinite_prices (test_olist.TestOlist.test_import_rejects_duplicate_keys_and_nonfinite_prices) ... ok
+test_import_roundtrip_and_overwrite_guard (test_olist.TestOlist.test_import_roundtrip_and_overwrite_guard) ... ok
+test_month_spine_and_year_separation (test_olist.TestOlist.test_month_spine_and_year_separation) ... ok
+test_pareto_and_full_sellers (test_olist.TestOlist.test_pareto_and_full_sellers) ... ok
+test_repeat_uses_unique_customer (test_olist.TestOlist.test_repeat_uses_unique_customer) ... ok
+test_review_dedup_and_valid_integer_rating (test_olist.TestOlist.test_review_dedup_and_valid_integer_rating) ... ok
+test_sales_reconcile_and_unknown_preserved (test_olist.TestOlist.test_sales_reconcile_and_unknown_preserved) ... ok
+test_window_boundaries_and_missing_review (test_olist.TestOlist.test_window_boundaries_and_missing_review) ... ok
+test_zero_price_ratio_null (test_olist.TestOlist.test_zero_price_ratio_null) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.209s
+
+OK

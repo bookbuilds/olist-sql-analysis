@@ -1,0 +1,61 @@
+original,new,reason
+olist_sql/06_analysis.sql,sql/analysis.sql,Original SQL preserved byte-for-byte; Q01–Q12 retained.
+olist_sql/07_import_olist.py,src/import_olist.py,Adapted CLI/import/file discovery; report is Markdown-only; hash-bound QA gates added.
+olist_sql/08_test_p1.py,tests/test_olist.py,Adapted CLI/import/file discovery; report is Markdown-only; hash-bound QA gates added.
+olist_sql/09_audit_raw.py,src/audit_raw.py,Adapted CLI/import/file discovery; report is Markdown-only; hash-bound QA gates added.
+olist_sql/10_run_analysis.py,src/run_analysis.py,Adapted CLI/import/file discovery; report is Markdown-only; hash-bound QA gates added.
+olist_sql/11_make_charts.py,src/make_charts.py,Adapted CLI/import/file discovery; report is Markdown-only; hash-bound QA gates added.
+olist_sql/13_supplemental.sql,sql/supplemental_checks.sql,Original SQL preserved byte-for-byte; Q01–Q12 retained.
+olist_sql/14_build_report.py,src/build_report.py,Adapted CLI/import/file discovery; report is Markdown-only; hash-bound QA gates added.
+olist_sql/CLAIMS_LEDGER.csv,docs/CLAIMS_LEDGER.csv,Same 13 claims; evidence paths updated.
+olist_sql/EXECUTIVE_SUMMARY.md,docs/EXECUTIVE_SUMMARY.md,"Portfolio/analytical documentation, updated paths and explicit historical/current status."
+olist_sql/INTERVIEW_WALKTHROUGH_TH.md,docs/INTERVIEW_WALKTHROUGH_TH.md,"Portfolio/analytical documentation, updated paths and explicit historical/current status."
+olist_sql/PORTFOLIO_CARD.md,docs/PORTFOLIO_CARD.md,"Portfolio/analytical documentation, updated paths and explicit historical/current status."
+olist_sql/QUALITY_LOG.md,docs/QUALITY_LOG.md,"Portfolio/analytical documentation, updated paths and explicit historical/current status."
+olist_sql/README.md,README.md,"Portfolio/analytical documentation, updated paths and explicit historical/current status."
+olist_sql/REPORT.md,docs/REPORT.md,"Portfolio/analytical documentation, updated paths and explicit historical/current status."
+olist_sql/SOURCE_AND_DECISIONS.md,docs/SOURCE_AND_DECISIONS.md,"Portfolio/analytical documentation, updated paths and explicit historical/current status."
+olist_sql/charts/01_category_pareto.png,figures/01_category_pareto.png,PNG regenerated from the matching QA-certified results; presentation inspected.
+olist_sql/charts/02_volume_price.png,figures/02_volume_price.png,PNG regenerated from the matching QA-certified results; presentation inspected.
+olist_sql/charts/03_delivery_reviews.png,figures/03_delivery_reviews.png,PNG regenerated from the matching QA-certified results; presentation inspected.
+olist_sql/charts/04_monthly_top5.png,figures/04_monthly_top5.png,PNG regenerated from the matching QA-certified results; presentation inspected.
+olist_sql/charts/05_freight_ratio.png,figures/05_freight_ratio.png,PNG regenerated from the matching QA-certified results; presentation inspected.
+olist_sql/charts/06_seller_concentration.png,figures/06_seller_concentration.png,PNG regenerated from the matching QA-certified results; presentation inspected.
+olist_sql/evidence/metadata.json,evidence/source_metadata.json,Selected identity/license/version fields; original response hash retained; unrelated profile/thumbnail fields omitted.
+olist_sql/evidence/notebook_execution.log,evidence/original_execution/notebook_execution.log,"Historical timings/runtime/test evidence, distinct from this run."
+olist_sql/evidence/raw_audit/daily_status.csv,evidence/raw_audit/daily_status.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/dates.csv,evidence/raw_audit/dates.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/input_manifest.json,evidence/input_manifest.json,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/monthly_status.csv,evidence/raw_audit/monthly_status.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/payments_multiplicity.csv,evidence/raw_audit/payments_multiplicity.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/raw_checks.csv,evidence/raw_audit/raw_checks.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/reviews_multiplicity.csv,evidence/raw_audit/reviews_multiplicity.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/schema.csv,evidence/raw_audit/schema.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/raw_audit/untranslated_products.csv,evidence/raw_audit/untranslated_products.csv,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/evidence/synthetic_tests.log,evidence/original_execution/synthetic_tests.log,"Historical timings/runtime/test evidence, distinct from this run."
+olist_sql/executed_analysis.ipynb,notebooks/executed_analysis.ipynb,Historical executed evidence; paths adapted and one temporary path redacted with provenance.
+olist_sql/requirements-tested.txt,requirements.txt,Reproducibility or pre-import aggregate audit evidence.
+olist_sql/results/Q01.csv,results/Q01.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q02.csv,results/Q02.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q03.csv,results/Q03.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q04.csv,results/Q04.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q05.csv,results/Q05.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q06.csv,results/Q06.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q07.csv,results/Q07.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q08.csv,results/Q08.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q09.csv,results/Q09.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q10.csv,results/Q10.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q11.csv,results/Q11.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/Q12.csv,results/Q12.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/category_review_sensitivity.csv,results/category_review_sensitivity.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/category_totals_cents.csv,results/category_totals_cents.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/delivery_numerators.csv,results/delivery_numerators.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/join_inflation_diagnostic.csv,results/join_inflation_diagnostic.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/metrics.json,results/metrics.json,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/monthly_maturity.csv,results/monthly_maturity.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/qa_checks.csv,evidence/original_execution/qa_checks.csv,"Historical timings/runtime/test evidence, distinct from this run."
+olist_sql/results/query_execution.csv,evidence/original_execution/query_execution.csv,"Historical timings/runtime/test evidence, distinct from this run."
+olist_sql/results/review_policy_sensitivity.csv,results/review_policy_sensitivity.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/runtime.json,evidence/original_execution/runtime.json,"Historical timings/runtime/test evidence, distinct from this run."
+olist_sql/results/unknown_categories.csv,results/unknown_categories.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
+olist_sql/results/window_sensitivity.csv,results/window_sensitivity.csv,Original verified aggregate bytes; full reconciliation/sensitivity evidence.
