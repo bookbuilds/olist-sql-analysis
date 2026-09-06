@@ -1,6 +1,6 @@
 {
-  "scope": "All package files except this inventory itself; refresh performed after GitHub preflight documentation fixes.",
-  "file_count_including_inventory": 93,
+  "scope": "All package files except this inventory itself; refreshed after LinkedIn asset creation.",
+  "file_count_including_inventory": 97,
   "files": [
     {
       "path": ".gitignore",
@@ -26,6 +26,26 @@
       "path": "THIRD_PARTY_DATA.md",
       "size_bytes": 2566,
       "sha256": "4ae11d73d9a2e015db0d33470eaf23b50654a181d83888589b369409d7af6a7f"
+    },
+    {
+      "path": "assets/linkedin/01_cover.png",
+      "size_bytes": 84213,
+      "sha256": "36ab1f37baae8539fe7d24b5c34d47fa2a642446ff0547c4ad3cf15465cb074e"
+    },
+    {
+      "path": "assets/linkedin/02_join_inflation.png",
+      "size_bytes": 120546,
+      "sha256": "348cb08a7594cdaef10fa984df223a57d99b177a3e7f17a42a9707a2693d1909"
+    },
+    {
+      "path": "assets/linkedin/03_delivery_reviews.png",
+      "size_bytes": 118978,
+      "sha256": "8362e00c6b225f9e4fc8a58591654ea422eec23c8ccde698360f179ea6e24882"
+    },
+    {
+      "path": "assets/linkedin/04_concentration.png",
+      "size_bytes": 100452,
+      "sha256": "1d45bcd4e1b9d2ab20cdaab31af04010830fb51a4d539acc435700111b4c2a85"
     },
     {
       "path": "data/README.md",
